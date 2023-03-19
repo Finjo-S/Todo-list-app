@@ -1,0 +1,26 @@
+button {
+  width: 112px;
+}
+
+.check-group {
+  align-items: center;
+}
+.check-group p {
+  margin: 0;
+}
+.icons {
+  align-items: center;
+}
+
+.todo-list {
+  width: inherit;
+  background-color: #f6f6f6;
+  padding-block: 0.85rem;
+  margin-block: 1rem;
+  border-radius: 5px;
+  padding-inline: 2rem;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e6e6e6;
+  justify-content: space-between;
+}
